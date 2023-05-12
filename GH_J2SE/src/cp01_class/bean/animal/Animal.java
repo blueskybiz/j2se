@@ -53,7 +53,6 @@ public class Animal {
 	}
 
 	public void printInfo() {
-		System.out.println("===== Animal Info =====");
 		System.out.print("동물=" + type);
 		System.out.print(" | 이름=" + name);
 		System.out.print(" | 나이=" + age);
