@@ -54,6 +54,7 @@ public class Animal {
 
 	public void printInfo() {
 		System.out.print("동물=" + type);
+		System.out.print("동물=" + type);
 		System.out.print(" | 이름=" + name);
 		System.out.print(" | 나이=" + age);
 		System.out.println(" | 성별=" + sex);
